@@ -1,2 +1,0 @@
-(this.webpackJsonptodo=this.webpackJsonptodo||[]).push([[0],[,,,function(e,t,l){e.exports=l(4)},function(e,t,l){"use strict";l.r(t);var n=l(0),a=l.n(n),o=l(2),r=l.n(o),c=a.a.createElement("div",null,a.a.createElement("h1",null,"My Todo list"),a.a.createElement("input",{placeholder:"search"}),a.a.createElement("ul",null,a.a.createElement("li",null,"Learn React"),a.a.createElement("li",null,"Build Awesome App")));r.a.render(c,document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.6e7cceb8.chunk.js.map
