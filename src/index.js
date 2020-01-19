@@ -1,15 +1,7 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import { render } from 'react-dom'
+import StorePicker from "./StorePicker";
 
-const el = (
-  <div>
-    <h1>My Todo list</h1>
-    <input placeholder="search"/>
-    <ul>
-      <li>Learn React</li>
-      <li>Build Awesome App</li>
-    </ul>
-  </div>
-);
+render(<StorePicker/>, document.querySelector('#root'));
 
-ReactDOM.render(el, document.getElementById('root'));
+// ReactDOM.render(<App />, document.getElementById('root'));
